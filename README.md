@@ -95,6 +95,9 @@ Data Enthusiast | Power BI Developer | Aspiring Data Analyst|
 
 If you're a recruiter, data team lead, or fellow data enthusiast interested in this project or future collaboration, feel free to connect!
 
+📧 [Email Me](mailto:bhaskarbabu1092@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bhaskarrao-ganneda)
+
 ---
 
 > “Turning data into insights, and insights into action.”
